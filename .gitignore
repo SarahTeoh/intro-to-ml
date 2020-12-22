@@ -1,2 +1,12 @@
 #vs code
 .vscode
+
+#mac
+.DS_STORE
+
+#jupyter checkpoints
+.ipynb_checkpoints/
+
+*.sh
+
+
